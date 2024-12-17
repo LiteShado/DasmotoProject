@@ -17,6 +17,11 @@ h3 {
     font-family: Helvetica;
     font-weight: bold;
 }
+.blue {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
 .background1 {
     background-color: mediumspringgreen;
 }
