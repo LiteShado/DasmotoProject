@@ -5,15 +5,14 @@
     color: khaki;
     text-align: center;
     background-image: url("./pattern.jpeg");
-    width: 100%;
+    
 }
 
-h1 {
+h2 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
-    width: 100%;
 }
 h3 {
     font-family: Helvetica;
@@ -24,12 +23,4 @@ h3 {
     font-weight: bold;
     color: blue;
 }
-.background1 {
-    background-color: mediumspringgreen;
-}
-.background2 {
-    background-color: lightcoral;
-}
-.background3 {
-    background-color: skyblue;
-}
+
