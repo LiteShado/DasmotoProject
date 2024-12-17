@@ -4,6 +4,8 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url("./pattern.jpeg");
+    width: 100%;
 }
 
 h1 {
